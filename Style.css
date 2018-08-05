@@ -1,5 +1,4 @@
-.h1 { color:pink;}
-    .row{   
+   .row{   
 
     background-color:black;
     color:white;
@@ -11,21 +10,18 @@ body{ background-color:black;}
 
  .headshot{ 
     border-radius: 50%;
-    width:50%;
+    width:40%;
 }
 .mid{
     background-color:white;
     color:black;
     align-items:center;
     font-size:25px;
-  padding-top:5px;
+    padding-top:5px;
     padding-bottom:5px;
     font-family: 'Playfair Display', serif;
     display:flex;
     height: 100%;
-}
-.aboutme{
-    border:1px solid black;   
 }
 .title {
     font-family: 'Dancing Script', cursive;
